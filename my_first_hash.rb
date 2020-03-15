@@ -6,7 +6,6 @@ end
 
 
 
-end
 
 def retrieval
   shipping_manifest = {
